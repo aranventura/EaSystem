@@ -1,7 +1,5 @@
 # EäSystem
 
-# EäSystem
-
 This project aims to implement a distributed system named Eä System, inspired by a fictional universe. It involves creating a communication system between different processes located across various physical machines using Linux operating systems and TCP/IP networking. The implementation is divided into four primary phases, with each phase incrementally adding more functionality to the system.
 
 ![image](https://github.com/user-attachments/assets/6a9d170b-ef3b-4e90-897a-1c6ba1159833)
